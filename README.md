@@ -21,5 +21,4 @@ git clone <this-repository-url>
 cd <repository-name>
 npm i
 npm run dev
-```
-Project maintained locally using Visual Studio Code.
+``` 
